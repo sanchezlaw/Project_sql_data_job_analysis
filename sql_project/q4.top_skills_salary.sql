@@ -1,5 +1,5 @@
 /*
-Top skills base on salary
+Which skills with higer salary
 steps:
 1.find the avarage salary for data analyst
 2.sort the skills by salary

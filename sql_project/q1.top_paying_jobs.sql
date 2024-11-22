@@ -1,5 +1,5 @@
 /*
-I want to know what are the top-paying remote data analyst jobs
+I want to know what are the top-paying data analyst jobs
 steps:
 1. find the job are 'Data Analyst' 
 2. remove null value in salary column

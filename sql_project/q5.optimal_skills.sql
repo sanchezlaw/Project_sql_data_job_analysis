@@ -1,5 +1,5 @@
 /*
-Optimal skills to learn for data analyst
+What are the optimal skills to learn for data analyst
 step:
 1.combine the query in q1 and q2
 2. focus on all data analyst job 
@@ -51,4 +51,4 @@ INNER JOIN
 WHERE
     demand_count >100
 ORDER BY
-    average_salary DESC   
+    average_salary DESC;  
